@@ -13,9 +13,9 @@ A platform that allows multiple users to collaborate in real-time on documents, 
 ## Tech Stack
 - **Frontend:** React.js or Vue.js
 - **Backend:** Node.js with Express
-- **Database:** MongoDB or PostgreSQL
+- **Database:** MongoDB 
 - **WebSockets:** Socket.io for real-time communication
-- **Authentication:** JWT or OAuth
+- **Authentication:** JWT 
 - **Deployment:** AWS, Azure, or Heroku
 
 ## Getting Started
